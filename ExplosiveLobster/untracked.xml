@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remove-project name="device/google/contexthub" />
+
+  <remove-project name="platform/hardware/knowles/athletico/sound_trigger_hal" />
+  <remove-project name="platform/hardware/qcom/bootctrl" />
+  <remove-project name="platform/hardware/qcom/bt" />
+
+  <remove-project name="platform/hardware/qcom/msm8994" />
+
+  <remove-project name="platform/hardware/qcom/sdm845/bt" />
+
+  <remove-project name="platform/hardware/qcom/sdm845/gps" />
+
+  <remove-project name="platform/hardware/qcom/sdm845/thermal" />
+  <remove-project name="platform/hardware/qcom/sdm845/vr" />
+  <remove-project name="platform/hardware/qcom/sm7150/gps" />
+  <remove-project name="platform/hardware/qcom/sm7250/display" />
+  <remove-project name="platform/hardware/qcom/sm7250/gps" />
+  <remove-project name="platform/hardware/qcom/sm7250/media" />
+  <remove-project name="platform/hardware/qcom/sm8150/data/ipacfg-mgr" />
+  <remove-project name="platform/hardware/qcom/sm8150/display" />
+  <remove-project name="platform/hardware/qcom/sm8150/gps" />
+  <remove-project name="platform/hardware/qcom/sm8150/media" />
+  <remove-project name="platform/hardware/qcom/sm8150/thermal" />
+  <remove-project name="platform/hardware/qcom/sm8150/vr" />
+  <remove-project name="platform/hardware/qcom/sm8150p/gps" />
+
+  <remove-project name="platform/packages/apps/Launcher3" />
+  <!-- PermissionController -->
+
+  <!--remove-project name="platform/packages/apps/QuickSearchBox" />
+
+  <remove-project name="platform/system/extras" />-->
+
+</manifest>
